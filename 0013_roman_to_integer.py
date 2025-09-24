@@ -23,4 +23,3 @@ class Solution:
                 total += value  
         return total
     
-print(Solution().romanToInt("III"))
